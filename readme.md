@@ -13,11 +13,11 @@
 
 | React | NextJs |
 | -------- | -------- |
-| Blog   | Blog  |
+| [Blog](#chaldal)    | Blog  |
 | Ecommerce   | Ecommerce  |
 | Sports alanytics   | Job Circular  |
 
-<div>
+<div id="chaldal">
   <a href="https://chaldal.com/"><img width="50%" src="https://res.cloudinary.com/homefinder/image/upload/v1691511033/portfolio/yxailvrbpnnyocfgrqxn.png"/></a>
   <ul list-style="none">
     <li>website</li>
